@@ -1,0 +1,22 @@
+{
+  "GEOCODE::190 Nathan road, Hong Kong::limit=5": [],
+  "GEOCODE::190 Argyle street, Hong Kong::limit=5": [],
+  "GEOCODE::10 nathan road, Hong Kong::limit=5": [],
+  "GEOCODE::20 nathan road, Hong Kong::limit=5": [],
+  "GEOCODE::272 prince edward road west, Hong Kong::limit=5": [],
+  "GEOCODE::18 Fuk lo tsun road, Hong Kong::limit=5": [],
+  "GEOCODE::272 Prince Edward Road West, Hong Kong::limit=5": [],
+  "GEOCODE::18 Fuk Lo Tsuen Road, Hong Kong::limit=5": [],
+  "GEOCODE::272 Prince Edward Road, Hong Kong::limit=5": [
+    {
+      "lat": 22.3261231,
+      "lon": 114.1796204,
+      "formatted_address": "272 Prince Edward Rd W, Kowloon Tsai, Hong Kong",
+      "location_type": "ROOFTOP",
+      "types": [
+        "street_address"
+      ],
+      "place_id": "ChIJSWcyic0ABDQRbUocYuBAU3o"
+    }
+  ]
+}

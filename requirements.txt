@@ -1,0 +1,12 @@
+streamlit
+xgboost
+scikit-learn
+numpy
+requests
+pytz
+joblib
+googlemaps
+pyproj
+shapely
+pypdf
+python-docx
