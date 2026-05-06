@@ -47,7 +47,7 @@ except Exception:
     get_polygon_district = None
 
 # Optional fallback for local testing. Leave blank if you prefer env vars or Streamlit secrets only.
-LOCAL_GOOGLE_MAPS_API_KEY = ""
+LOCAL_GOOGLE_MAPS_API_KEY = "AIzaSyBCbcyOiTXyGoKfdMOxe_lCF2bdxzB8z5E"
 
 
 def get_google_maps_api_key() -> str:
